@@ -24,3 +24,10 @@ hs_err_pid*
 
 
 **/build/
+
+#Project files
+[Bb]uild/
+
+**/build
+
+/build
